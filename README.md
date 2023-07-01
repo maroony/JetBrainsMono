@@ -1,6 +1,6 @@
 # JetBrainsMono
 
-JetBrainsMono font with freezed open styles.
+JetBrainsMono Nerd Fonts with slashed zero.
 
 # Font Usage
 

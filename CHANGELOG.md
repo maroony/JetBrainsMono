@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/maroony/JetBrainsMono/compare/1.0.0...1.0.1) (2023-07-02)
+
+
+### Bug Fixes
+
+* v in release name ([9ff4ed2](https://github.com/maroony/JetBrainsMono/commit/9ff4ed2813dc106ce41a03435ea6352d0d06331a))
+
 ## 1.0.0 (2023-07-02)
 
 

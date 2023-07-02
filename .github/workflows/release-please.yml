@@ -2,8 +2,13 @@ on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
 name: release-please
-permissions: write-all
+
 jobs:
   release-please:
     runs-on: ubuntu-latest

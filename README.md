@@ -2,7 +2,7 @@
 
 JetBrainsMono Nerd Fonts with slashed zero.
 
-# Font Usage
+## Font Usage
 
 ## VSCode
 

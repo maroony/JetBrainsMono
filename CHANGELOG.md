@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/maroony/JetBrainsMono/compare/1.0.1...1.0.2) (2023-07-03)
+
+
+### Bug Fixes
+
+* fonts not patched ([159f653](https://github.com/maroony/JetBrainsMono/commit/159f65335c26b3b7817c9fa50344a918da7a092a))
+* link ([594548a](https://github.com/maroony/JetBrainsMono/commit/594548a615f3f498f1b3b9f85899d54edbd3adf8))
+
 ## [1.0.1](https://github.com/maroony/JetBrainsMono/compare/1.0.0...1.0.1) (2023-07-02)
 
 
